@@ -14,8 +14,6 @@ public class DrinkParty {
         musicSong.song(bottle);
         System.out.println("1");
         System.out.println("У меня получилось!!!");
-        s sclass=new s();
-        sclass.sprint();
 
     }
 }
