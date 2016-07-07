@@ -13,6 +13,7 @@ public class DrinkParty {
         isklMass.isklMass(bottle);
         musicSong.song(bottle);
         System.out.println("1");
+        System.out.println("У меня получилось!!!");
 
     }
 }
