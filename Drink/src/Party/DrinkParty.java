@@ -12,7 +12,7 @@ public class DrinkParty {
         int bottle = 122;
         isklMass.isklMass(bottle);
         musicSong.song(bottle);
-        //isklMass.isklWord();
+        System.out.println("1");
 
     }
 }
