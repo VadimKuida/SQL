@@ -15,6 +15,9 @@ public class DrinkParty {
         System.out.println("1");
         System.out.println("У меня получилось!!!");
 
+
+
+
     }
 }
 
