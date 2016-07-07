@@ -9,7 +9,7 @@ import static Party.ArrayLim.arrayIskl;
  */
 public class Iskl {
     static ArrayList<Integer> list = new ArrayList<Integer>();
-    ArrayLim array = new ArrayLim();
+    //ArrayLim array = new ArrayLim();
     static boolean flag;
     static boolean flag1;
     static boolean flag2;
@@ -26,12 +26,10 @@ public class Iskl {
         flag = false;
         flag1 = false;
         flag2 = false;
-        //System.out.println(array234[1]);
         String work=" ";
         int i=0;
         int u=0;
         int y=0;
-        //System.out.println(list.get(3));
         if (beer > 0) {
             while (i < list.size()){
                 if (beer == list.get(i)) {
@@ -44,7 +42,7 @@ public class Iskl {
                     }
                     u=u+1;
                 }
-                ArrayLim.arrayLim(12,25);
+                ArrayLim.arrayLim(12,14);
                 while (y < arrayIskl.length){
                     if(arrayIskl[y] == parse.parseMass(2, beer)){
                         flag2 = true;

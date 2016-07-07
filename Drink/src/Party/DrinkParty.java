@@ -9,17 +9,15 @@ public class DrinkParty {
 
         Music musicSong = new Music();
         Iskl isklMass = new Iskl();
+        ArrayLim array = new ArrayLim();
         int bottle = 122;
         isklMass.isklMass(bottle);
         musicSong.song(bottle);
-        System.out.println("1");
-        System.out.println("У меня получилось!!!");
-
-
 
 
     }
 }
+
 
 
 
